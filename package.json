@@ -1,0 +1,17 @@
+{
+  "name": "zeller-backend-coding-challenge",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "ts-node src/index.ts",
+    "build": "tsc"
+  },
+  "devDependencies": {
+    "typescript": "^4.5.2",
+    "ts-node": "^10.4.0"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
